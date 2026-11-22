@@ -1,2 +1,3 @@
 # hybrid-occupancy-prediction
-A hybrid model for predicting actual classroom occupancy in higher education institutions
+
+Source code for the simulation model described in the paper: "Hybrid Occupancy Prediction for University Classrooms Combining Timetable Data, Gradebook Statistics and CO₂ Sensing".
