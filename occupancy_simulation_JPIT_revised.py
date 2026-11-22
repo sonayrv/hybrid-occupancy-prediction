@@ -1,9 +1,8 @@
 
 """
-occupancy_simulation.py  (revised version 2.1)
 
 Reproducible stochastic simulation of the Hybrid Occupancy Prediction
-Framework (HOPF) for university classrooms. All data are synthetic.
+Framework for university classrooms. All data are synthetic.
 
 Processes and data
 ------------------
@@ -37,7 +36,6 @@ Adaptive: the SAME heating setpoint (21 C) for held classes; ventilation
 reset to the estimated occupancy (demand-controlled ventilation) and
 set-back to 16 C only for classes detected as cancelled.
 
-Run: python occupancy_simulation.py
 """
 
 import math
